@@ -1,0 +1,44 @@
+#whole{
+    background-image: linear-gradient(white,pink);
+
+}
+
+#txt{
+    justify-content: center;
+    align-items: center;
+    padding:2px 250px 2px 300px ;
+}
+
+#info{
+    align-items: flex-start;
+    padding: 2px 100px 2px 0px;
+}
+#video{
+    justify-content: center;
+    align-items: center;
+    padding: 20px 100px 20px 300px;
+    
+}
+#imag{
+    justify-content: center;
+    align-items: center;
+    padding: 40px 100px 20px 400px;
+}
+#fruit{
+    justify-content: center;
+    align-items: center;
+    padding: 40px 400px 20px 400px;
+}
+.button{
+    border-radius: 8px;
+    size: 500px;
+    border-style: double;
+    background-color: rgb(255, 182, 182);
+    border: 2px color(srgb red green blue);
+    box-shadow: inset;  
+    transition-duration: 0.4s;
+}
+.button:hover {
+    background-color: darkcyan; /* Green */
+    color: white;
+  }
