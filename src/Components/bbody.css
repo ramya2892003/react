@@ -31,11 +31,6 @@
 }
 .button{
     border-radius: 8px;
-    size: 500px;
-    border-style: double;
-    background-color: rgb(255, 182, 182);
-    border: 2px color(srgb red green blue);
-    box-shadow: inset;  
     transition-duration: 0.4s;
 }
 .button:hover {
